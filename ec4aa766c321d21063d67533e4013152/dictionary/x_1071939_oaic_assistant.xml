@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fd8c6b22c3a5d21063d67533e40131f9" label="Assistant" max_length="40" name="x_1071939_oaic_assistant" type="collection">
+        <element label="Description" max_length="255" name="description" type="string_full_utf8"/>
+        <element label="ID" max_length="40" name="id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

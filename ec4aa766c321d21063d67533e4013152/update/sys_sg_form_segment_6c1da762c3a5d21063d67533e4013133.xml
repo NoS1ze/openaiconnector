@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">281da762c3a5d21063d67533e4013130</embedded_screen>
+        <form display_value="Assistant Form Screen">2c1da762c3a5d21063d67533e401312f</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>nosize</sys_created_by>
+        <sys_created_on>2024-11-02 01:53:37</sys_created_on>
+        <sys_id>6c1da762c3a5d21063d67533e4013133</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="OpenAI Connector" source="x_1071939_oaic">ec4aa766c321d21063d67533e4013152</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OpenAI Connector">ec4aa766c321d21063d67533e4013152</sys_scope>
+        <sys_update_name>sys_sg_form_segment_6c1da762c3a5d21063d67533e4013133</sys_update_name>
+        <sys_updated_by>nosize</sys_updated_by>
+        <sys_updated_on>2024-11-02 01:53:37</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

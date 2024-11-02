@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1071939_oaic.openai.admin" name="x_1071939_oaic.openai.admin">cf6a6f2ec365d21063d67533e401318a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>nosize</sys_created_by>
+        <sys_created_on>2024-11-02 01:42:03</sys_created_on>
+        <sys_id>0f6a6f2ec365d21063d67533e401318e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cf6a6f2ec365d21063d67533e401318a</sys_name>
+        <sys_package display_value="OpenAI Connector" source="x_1071939_oaic">ec4aa766c321d21063d67533e4013152</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OpenAI Connector">ec4aa766c321d21063d67533e4013152</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0f6a6f2ec365d21063d67533e401318e</sys_update_name>
+        <sys_updated_by>nosize</sys_updated_by>
+        <sys_updated_on>2024-11-02 01:42:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
